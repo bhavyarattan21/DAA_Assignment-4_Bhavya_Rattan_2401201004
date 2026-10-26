@@ -1,0 +1,4 @@
+Algorithm,Domain,Time Complexity,Space Complexity,Optimized Space,Subproblems Count,Dependency Pattern
+Longest Common Subsequence,Sequence Analysis,O(m * n),O(m * n),"O(min(m, n))",m * n,"dp[i-1][j-1], dp[i-1][j], dp[i][j-1]"
+0/1 Knapsack,Resource Allocation,O(n * W),O(n * W),O(W) 1-D array,n * W,"dp[i-1][w], dp[i-1][w - weights[i-1]]"
+Matrix Chain Multiplication,Computation Optimization,O(n^3),O(n^2),O(n^2),O(n^2) table entries,cost[i][k] + cost[k+1][j] for k in i..j-1
