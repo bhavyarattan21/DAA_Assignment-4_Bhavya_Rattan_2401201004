@@ -1,6 +1,19 @@
 # ⚡ Smart Optimization Assistant using Dynamic Programming
 ### Design and Analysis of Algorithms (DAA) — Lab 4
 
+---
+
+## 🎓 Academic Information
+- **Student Name:** Bhavya Rattan
+- **Roll Number:** 2401201004
+- **Course:** Design and Analysis of Algorithms (ENCA301)
+- **Semester:** 3rd Semester, BCA (AI & DS)
+- **School:** School of Engineering and Technology (SOET)
+- **Institution:** K.R. Mangalam University, Gurugram, Haryana
+- **Faculty In-Charge:** Dr. Aarti
+
+---
+
 An interactive optimization assistant powered by **Dynamic Programming (DP)** that solves, tabulates, visualizes, and benchmarks three classic algorithmic problems:
 1. **Sequence Analysis:** Longest Common Subsequence (LCS)
 2. **Resource Allocation:** 0/1 Knapsack Problem

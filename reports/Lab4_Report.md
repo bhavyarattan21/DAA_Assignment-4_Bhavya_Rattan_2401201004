@@ -1,9 +1,16 @@
 # Lab 4 Technical Report: Smart Optimization Assistant using Dynamic Programming
 
-**Course:** Design and Analysis of Algorithms (DAA)  
-**Lab Assignment:** Lab 4  
-**Project:** Smart Optimization Assistant  
-**Date:** October 2026  
+---
+
+## 🎓 Academic Information
+- **Student Name:** Bhavya Rattan
+- **Roll Number:** 2401201004
+- **Course:** Design and Analysis of Algorithms (ENCA301)
+- **Semester:** 3rd Semester, BCA (AI & DS)
+- **School:** School of Engineering and Technology (SOET)
+- **Institution:** K.R. Mangalam University, Gurugram, Haryana
+- **Faculty In-Charge:** Dr. Aarti
+- **Date:** October 2026
 
 ---
 
